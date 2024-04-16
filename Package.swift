@@ -16,9 +16,9 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "DynamsoftCore", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-core-ios-3.0.20-xcframework.zip", checksum: "2a4fd81be2b6471c6b97b67f86827d22679ecdc06cffbf3a34f5a7ed1dbbf4c6"),
-        .binaryTarget(name: "DynamsoftLicense", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-license-ios-3.0.30-xcframework.zip", checksum: "51690ac1b79420fb1b0ea330c688beeeb0ca488091b530398251fd3c87b988c7"),
-        .binaryTarget(name: "DynamsoftCodeParserDedicator", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-codeparserdedicator-ios-1.0.10-xcframework.zip", checksum: "0bd708cf5acd3534842394d3e42f3f9bf82a7846d6d53964a39a85887b99f7c8"),
-        .binaryTarget(name: "DynamsoftCodeParser", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-codeparser-ios-2.0.21-xcframework.zip", checksum: "a1a80444bf826e4841f6ea3973a11ce932e39c5da981426eae760a5e47ac2007"),
+        .binaryTarget(name: "DynamsoftCore", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-core-ios-3.2.11-xcframework.zip", checksum: "b551eac754f8e34bcd251dee20314e0aace5f836ea5086fa2b2dd872454f94f5"),
+        .binaryTarget(name: "DynamsoftLicense", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-license-ios-3.2.11-xcframework.zip", checksum: "4a3963f3a9a60ed1e240a45f89b297f2c4fb639e284a6a98df2bc277dd1b9b77"),
+        .binaryTarget(name: "DynamsoftCodeParserDedicator", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-codeparserdedicator-ios-1.2.20-xcframework.zip", checksum: "f1124744d4284e77134df1d2ee5aea3969edb9c11dfc03529477fbc41430ad12"),
+        .binaryTarget(name: "DynamsoftCodeParser", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-codeparser-ios-2.2.10-xcframework.zip", checksum: "00e1c806b87830b58bf94a7e50539eef2b9464fdff74ccdfa131cb29d7d473b5"),
     ]
 )
